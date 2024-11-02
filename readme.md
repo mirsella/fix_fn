@@ -4,6 +4,8 @@
 
 # fix_fn
 
+this fork add the fix_fn_mut!() macro, implemented by @lrvideckis in https://github.com/SrTobi/fix_fn/issues/1
+
 This library enables the creation of recursive closures by providing a
 single macro `fix_fn`. The functionality is similar to the
 [Y combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator#Fixed-point_combinators_in_lambda_calculus).
